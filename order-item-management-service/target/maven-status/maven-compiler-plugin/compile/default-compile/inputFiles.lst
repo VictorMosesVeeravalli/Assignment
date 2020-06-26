@@ -1,0 +1,8 @@
+F:\order-item-management-service\src\main\java\com\manage\order\item\model\OrderItemModel.java
+F:\order-item-management-service\src\main\java\com\manage\order\exception\ResourceNotFoundException.java
+F:\order-item-management-service\src\main\java\com\manage\order\item\repository\OrderItemRepository.java
+F:\order-item-management-service\src\main\java\com\manage\order\item\OrderItemManagementServiceApplication.java
+F:\order-item-management-service\src\main\java\com\manage\order\item\service\OrderItemService.java
+F:\order-item-management-service\src\main\java\com\manage\order\item\service\OrderItemServiceImpl.java
+F:\order-item-management-service\src\main\java\com\manage\order\item\model\OrderItem.java
+F:\order-item-management-service\src\main\java\com\manage\order\item\controller\OrderItemController.java
